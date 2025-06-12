@@ -86,7 +86,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django rest framework logo"  />
 </div>
-###
+
 <h3 align="left">Tools and Technologies</h3>
 
 ###
@@ -146,8 +146,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labelimg/labelimg-original.svg" height="40" alt="labelimg logo"  />
 </div>
-
-###
 
 <h3 align="left">Certification</h3>
 
