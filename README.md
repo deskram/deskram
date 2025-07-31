@@ -79,7 +79,7 @@ With over 2 years of hands-on experience as an Information Security Analyst in t
 
 ### ERP & Business Systems
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erpnext/erpnext-original.svg" height="40" alt="erpnext logo" />
+  <img src="https://accendero.com/wp-content/uploads/erpnext-logo-700.png" height="40" alt="erpnext logo" />
   <img src="https://img.shields.io/badge/Frappe-0084ff?style=flat&logo=frappe&logoColor=white" height="40" alt="frappe logo" />
 </div>
 
