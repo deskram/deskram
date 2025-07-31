@@ -58,7 +58,7 @@ With over 2 years of hands-on experience as an Information Security Analyst in t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img src="https://img.icons8.com/nolan/512/flask.png" height="40" alt="flask logo" />
   <img src="https://img.shields.io/badge/Django%20REST-Framework-A04F2E?style=flat&logo=django" height="40" alt="django rest framework logo" />
 </div>
 
